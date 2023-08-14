@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#23](https://github.com/nebula-contrib/nebula-net/pull/23#issuecomment-1639917921) in [nebula-contrib/nebula-net](https://github.com/nebula-contrib/nebula-net)
 <!--END_SECTION:activity-->
 
-### Languages and Tools
+### 🔧 Languages and Tools
 
 <p align="left">
   <a href="https://go.dev/" target="_blank">
