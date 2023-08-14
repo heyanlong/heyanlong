@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3155](https://github.com/open-telemetry/opentelemetry.io/pull/3155) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. 💪 Opened PR [#630](https://github.com/apache/skywalking-website/pull/630) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 💪 Opened PR [#87](https://github.com/apache/skywalking-php/pull/87) in [apache/skywalking-php](https://github.com/apache/skywalking-php)
+4. 🎉 Merged PR [#23](https://github.com/nebula-contrib/nebula-net/pull/23) in [nebula-contrib/nebula-net](https://github.com/nebula-contrib/nebula-net)
+5. 🗣 Commented on [#23](https://github.com/nebula-contrib/nebula-net/pull/23#issuecomment-1639917921) in [nebula-contrib/nebula-net](https://github.com/nebula-contrib/nebula-net)
 <!--END_SECTION:activity-->
