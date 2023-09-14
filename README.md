@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11325](https://github.com/apache/skywalking/issues/11325#issuecomment-1717242891) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 💪 Opened PR [#1](https://github.com/simonluo345/skywalking/pull/1) in [simonluo345/skywalking](https://github.com/simonluo345/skywalking)
-3. 🎉 Merged PR [#6](https://github.com/heyanlong/notes/pull/6) in [heyanlong/notes](https://github.com/heyanlong/notes)
-4. 🗣 Commented on [#191229](https://github.com/microsoft/vscode/issues/191229#issuecomment-1692709184) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 💪 Opened PR [#3155](https://github.com/open-telemetry/opentelemetry.io/pull/3155) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 🗣 Commented on [#11330](https://github.com/apache/skywalking/pull/11330#issuecomment-1718891816) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#11325](https://github.com/apache/skywalking/issues/11325#issuecomment-1717242891) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 💪 Opened PR [#1](https://github.com/simonluo345/skywalking/pull/1) in [simonluo345/skywalking](https://github.com/simonluo345/skywalking)
+4. 🎉 Merged PR [#6](https://github.com/heyanlong/notes/pull/6) in [heyanlong/notes](https://github.com/heyanlong/notes)
+5. 🗣 Commented on [#191229](https://github.com/microsoft/vscode/issues/191229#issuecomment-1692709184) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
