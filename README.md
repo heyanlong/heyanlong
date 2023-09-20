@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/jp-gouin/helm-openldap/pull/125) in [jp-gouin/helm-openldap](https://github.com/jp-gouin/helm-openldap)
-2. 🗣 Commented on [#11330](https://github.com/apache/skywalking/pull/11330#issuecomment-1718891816) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#11325](https://github.com/apache/skywalking/issues/11325#issuecomment-1717242891) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#1](https://github.com/simonluo345/skywalking/pull/1) in [simonluo345/skywalking](https://github.com/simonluo345/skywalking)
-5. 🎉 Merged PR [#6](https://github.com/heyanlong/notes/pull/6) in [heyanlong/notes](https://github.com/heyanlong/notes)
+1. 🗣 Commented on [#11344](https://github.com/apache/skywalking/issues/11344#issuecomment-1726834771) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#11344](https://github.com/apache/skywalking/issues/11344#issuecomment-1726831146) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 💪 Opened PR [#125](https://github.com/jp-gouin/helm-openldap/pull/125) in [jp-gouin/helm-openldap](https://github.com/jp-gouin/helm-openldap)
+4. 🗣 Commented on [#11330](https://github.com/apache/skywalking/pull/11330#issuecomment-1718891816) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#11325](https://github.com/apache/skywalking/issues/11325#issuecomment-1717242891) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
