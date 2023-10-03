@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#93](https://github.com/disksing/sao-gen-gen/issues/93) in [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen)
-2. 🗣 Commented on [#123](https://github.com/jp-gouin/helm-openldap/pull/123#issuecomment-1729158898) in [jp-gouin/helm-openldap](https://github.com/jp-gouin/helm-openldap)
-3. 💪 Opened PR [#322](https://github.com/apache/skywalking-booster-ui/pull/322) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-4. 🗣 Commented on [#11344](https://github.com/apache/skywalking/issues/11344#issuecomment-1726834771) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#11344](https://github.com/apache/skywalking/issues/11344#issuecomment-1726831146) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#99](https://github.com/apache/skywalking-php/pull/99#issuecomment-1745162360) in [apache/skywalking-php](https://github.com/apache/skywalking-php)
+2. ❗ Opened issue [#93](https://github.com/disksing/sao-gen-gen/issues/93) in [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen)
+3. 🗣 Commented on [#123](https://github.com/jp-gouin/helm-openldap/pull/123#issuecomment-1729158898) in [jp-gouin/helm-openldap](https://github.com/jp-gouin/helm-openldap)
+4. 💪 Opened PR [#322](https://github.com/apache/skywalking-booster-ui/pull/322) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+5. 🗣 Commented on [#11344](https://github.com/apache/skywalking/issues/11344#issuecomment-1726834771) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
