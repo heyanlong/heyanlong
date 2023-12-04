@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1057](https://github.com/tastyigniter/TastyIgniter/pull/1057) in [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
-2. 🗣 Commented on [#2](https://github.com/nebula-contrib/nebula-php/issues/2#issuecomment-1780665708) in [nebula-contrib/nebula-php](https://github.com/nebula-contrib/nebula-php)
-3. 🗣 Commented on [#11384](https://github.com/apache/skywalking/pull/11384#issuecomment-1751972536) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#99](https://github.com/apache/skywalking-php/pull/99#issuecomment-1745162360) in [apache/skywalking-php](https://github.com/apache/skywalking-php)
-5. ❗ Opened issue [#93](https://github.com/disksing/sao-gen-gen/issues/93) in [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen)
+1. 🔒 Closed issue [#11621](https://github.com/apache/skywalking/issues/11621) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🎉 Merged PR [#351](https://github.com/apache/skywalking-booster-ui/pull/351) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+3. 💪 Opened PR [#1057](https://github.com/tastyigniter/TastyIgniter/pull/1057) in [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
+4. 🗣 Commented on [#2](https://github.com/nebula-contrib/nebula-php/issues/2#issuecomment-1780665708) in [nebula-contrib/nebula-php](https://github.com/nebula-contrib/nebula-php)
+5. 🗣 Commented on [#11384](https://github.com/apache/skywalking/pull/11384#issuecomment-1751972536) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
