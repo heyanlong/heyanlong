@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11621](https://github.com/apache/skywalking/issues/11621) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🎉 Merged PR [#351](https://github.com/apache/skywalking-booster-ui/pull/351) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-3. 💪 Opened PR [#1057](https://github.com/tastyigniter/TastyIgniter/pull/1057) in [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
-4. 🗣 Commented on [#2](https://github.com/nebula-contrib/nebula-php/issues/2#issuecomment-1780665708) in [nebula-contrib/nebula-php](https://github.com/nebula-contrib/nebula-php)
-5. 🗣 Commented on [#11384](https://github.com/apache/skywalking/pull/11384#issuecomment-1751972536) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#11512](https://github.com/opensearch-project/OpenSearch/pull/11512) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+2. 🔒 Closed issue [#11621](https://github.com/apache/skywalking/issues/11621) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🎉 Merged PR [#351](https://github.com/apache/skywalking-booster-ui/pull/351) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+4. 💪 Opened PR [#1057](https://github.com/tastyigniter/TastyIgniter/pull/1057) in [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
+5. 🗣 Commented on [#2](https://github.com/nebula-contrib/nebula-php/issues/2#issuecomment-1780665708) in [nebula-contrib/nebula-php](https://github.com/nebula-contrib/nebula-php)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
