@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11512](https://github.com/opensearch-project/OpenSearch/pull/11512) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-2. 🔒 Closed issue [#11621](https://github.com/apache/skywalking/issues/11621) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🎉 Merged PR [#351](https://github.com/apache/skywalking-booster-ui/pull/351) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-4. 💪 Opened PR [#1057](https://github.com/tastyigniter/TastyIgniter/pull/1057) in [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
-5. 🗣 Commented on [#2](https://github.com/nebula-contrib/nebula-php/issues/2#issuecomment-1780665708) in [nebula-contrib/nebula-php](https://github.com/nebula-contrib/nebula-php)
+1. 🗣 Commented on [#21511](https://github.com/bitnami/charts/pull/21511#issuecomment-1853168852) in [bitnami/charts](https://github.com/bitnami/charts)
+2. 🗣 Commented on [#11603](https://github.com/opensearch-project/OpenSearch/pull/11603#issuecomment-1853165285) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+3. 💪 Opened PR [#11603](https://github.com/opensearch-project/OpenSearch/pull/11603) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+4. 💪 Opened PR [#11512](https://github.com/opensearch-project/OpenSearch/pull/11512) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+5. 🔒 Closed issue [#11621](https://github.com/apache/skywalking/issues/11621) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
