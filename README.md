@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1861974497) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-2. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1859430927) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-3. 💪 Opened PR [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-4. 🗣 Commented on [#11603](https://github.com/opensearch-project/OpenSearch/pull/11603#issuecomment-1853327538) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-5. 🗣 Commented on [#21511](https://github.com/bitnami/charts/pull/21511#issuecomment-1853168852) in [bitnami/charts](https://github.com/bitnami/charts)
+1. 💪 Opened PR [#354](https://github.com/apache/skywalking-booster-ui/pull/354) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+2. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1861974497) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+3. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1859430927) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+4. 💪 Opened PR [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+5. 🗣 Commented on [#11603](https://github.com/opensearch-project/OpenSearch/pull/11603#issuecomment-1853327538) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
