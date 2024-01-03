@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/apache/skywalking-booster-ui/pull/354#issuecomment-1869412111) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-2. 🗣 Commented on [#354](https://github.com/apache/skywalking-booster-ui/pull/354#issuecomment-1869407374) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-3. 💪 Opened PR [#354](https://github.com/apache/skywalking-booster-ui/pull/354) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-4. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1861974497) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-5. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1859430927) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+1. 🔒 Closed issue [#11717](https://github.com/apache/skywalking/issues/11717) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#354](https://github.com/apache/skywalking-booster-ui/pull/354#issuecomment-1869412111) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+3. 🗣 Commented on [#354](https://github.com/apache/skywalking-booster-ui/pull/354#issuecomment-1869407374) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+4. 💪 Opened PR [#354](https://github.com/apache/skywalking-booster-ui/pull/354) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+5. 🗣 Commented on [#11612](https://github.com/opensearch-project/OpenSearch/pull/11612#issuecomment-1861974497) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 <!--END_SECTION:activity-->
 
 ### 🔧 Languages and Tools
