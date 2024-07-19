@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✨ GitHub Streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyanlong)](https://git.io/streak-stats)
-
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -44,46 +39,14 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#354](https://github.com/apache/skywalking-booster-ui/pull/354#issuecomment-1869412111) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
 <!--END_SECTION:activity-->
 
-### 🔧 Languages and Tools
+### ✨ GitHub Streak
 
-<p align="left">
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyanlong)](https://git.io/streak-stats)
 
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
 
-<p align="left">
-    <a href="https://laravel.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-</p>
+### 🔧 Github Stats
+<div style="display: flex; flex-direction: row">
+<img src="https://github-readme-stats.vercel.app/api?username=heyanlong&show_icons=true&layout=compact&theme=buefy" style="height: 10rem;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyanlong&layout=compact&theme=buefy" style="height: 10rem;" />
+</div>
