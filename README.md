@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 ### ✨ GitHub Streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyanlong)](https://git.io/streak-stats)
-
+<div style="display: flex; flex-direction: row">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyanlong" style="height: 10rem;" />
+</div>
 
 ### 🔧 Github Stats
 <div style="display: flex; flex-direction: row">
